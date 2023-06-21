@@ -1,0 +1,1 @@
+{"events": [[61, "size*=2"], [45, "size/=2"], ["power", 100, "speed", "time"]], "rules": [["size>20", "print(size)"]], "formules": [["power", 100, "speed", "time"]]}
